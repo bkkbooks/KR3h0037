@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR3h0037/v1
+canonical_location: https://kanripo.org/bkk/KR3h0037/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 畫鑒
+  date: '2015-08-24 23:14:54.975570'
+  source:
+    repository: kanripo
+    path: KR3h0037
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3h0037_000.yaml, hash: 'sha256:3efa631e3a1925f114f8a4c99b17a2e5c08233cc3647b4a3cf798ca6421faa9f'}
+  - {seq: 1, filename: KR3h0037_001.yaml, hash: 'sha256:1fefb9e6cbb39a7f7714aa3cf5420a154877b41470ce02816fe428d2c1a946f9'}
+  - {seq: 2, filename: KR3h0037_002.yaml, hash: 'sha256:d9bca04ee749c39fbcd1a6ec17011be8fe967fb1cabbfccdc8583e2fd47ce521'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3h0037_000.markers.yaml, hash: 'sha256:3f022d530baaf680cd0135b3813884e553cf056e4e5b19f8b33f2ef66133f630'}
+  - {seq: 1, role: markers, filename: assets/KR3h0037_001.markers.yaml, hash: 'sha256:1f7d55b30da3711fe1d74d349016cb6dc07141e262901189f598bbda9450ccc6'}
+  - {seq: 2, role: markers, filename: assets/KR3h0037_002.markers.yaml, hash: 'sha256:c1aa490dad09f91fb74edbcd1b6d8f5413f81776d5794492654c6fcd25c514cf'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3h0037_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 429
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3h0037_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 11040
+  label: 畫鑒
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3h0037_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 78
+  label: 題詞
+  type: section
+  level: 1
+hash: sha256:0b8bb4518163fb3bb550f9fce1f1c1a7e6477f977d45436a03c22b9c401762fd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

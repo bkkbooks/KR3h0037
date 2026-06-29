@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0037/WYG/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 畫鑑題詞采真子妙於考古在京師時與今鑑畫博士柯君敬仲論畫遂著此書用意精到悉有據依惜乎尚多疏畧乃為删補編次成袠名曰畫鑒後有高識賞其知言采真子東楚湯垕君載之自號也
+  hash: sha256:132459aaf4051d7bf4fb827f759ac1b5285601a9fbe388a25aba1c55b9ba7fc3
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0037_WYG_002-1a, image: WYG0814/WYG0814-0440a.png}
+metadata:
+  title: 畫鑒
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:14:54.975570'
+  juan_title: 題詞
+  source:
+    repository: kanripo
+    path: KR3h0037/KR3h0037_002.txt
+hash: sha256:421f3b12582319b2e54978a4a4d8c09f7ab74d728e9fcee17a587a3e143f79fb
