@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 畫鑑題詞采真子妙於考古在京師時與今鑑畫博士柯君敬仲論畫遂著此書用意精到悉有據依惜乎尚多疏畧乃為删補編次成袠名曰畫鑒後有高識賞其知言采真子東楚湯垕君載之自號也
-  hash: sha256:132459aaf4051d7bf4fb827f759ac1b5285601a9fbe388a25aba1c55b9ba7fc3
+  text: 畫鑑題詞采真子妙於考古在京師時與今鑑畫博士柯君敬仲論畫遂著此書用意精到悉有據依惜乎尚多疏略乃為刪補編次成帙名曰畫鑒後有高識賞其知言采真子東楚湯垕君載之自號也
+  hash: sha256:9bdd17cec5415151e3dc4dc6edf6a9f0b08b057db25d70c991dc9c976a0c773a
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3h0037_WYG_002-1a, image: WYG0814/WYG0814-0440a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3h0037/KR3h0037_002.txt
-hash: sha256:eac9a57b4fa37a708229b13ee83f5c58ef11ff8a07e7f528a20574385435d9ec
+hash: sha256:8d5f03c535ca300fc73125830df9b0b53b714c2166c79eab26fc2602773d954f
